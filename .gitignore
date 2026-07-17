@@ -1,0 +1,138 @@
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+notebooks/*.ipynb
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite
+data/raw/
+data/processed/
+*.parquet
+
+# Models
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+models/
+
+# Reports
+reports/*.html
+reports/*.pdf
+reports/figures/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Streamlit
+.streamlit/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.cover
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose*.yml
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# GCP/AWS
+*.key
+*.pem
+*.p8
+*.p12
+service-account.json
+
+# Colab
+sample_data/
+drive/
+.config/
+
+# Git
+*.orig
+*.rej
+EOF"../" 
+"Desktop/" 
+*.xlsx
+*.csv
+*.ipynb
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+data/raw/
+data/processed/
+models/
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+.DS_Store
+Thumbs.db
+*.log
+.streamlit/
+.pytest_cache/
+.vscode/
+.idea/
+reports/*.html
+reports/*.pdf
