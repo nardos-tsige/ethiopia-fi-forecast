@@ -1,0 +1,27 @@
+================================================================================
+EDA SUMMARY - ETHIOPIA FINANCIAL INCLUSION
+================================================================================
+
+Dataset Overview:
+  Total records: 43
+  Observations: 30
+  Events: 10
+  Targets: 3
+
+Access Analysis:
+  Account ownership trend: 22.0% to 56.0%
+
+Data Quality:
+  Confidence levels: ['high', 'medium']
+  Missing values: 614
+
+Key Insights:
+  - Account ownership grew from 22.0% to 49.0%, a total increase of 27.0 percentage points
+  - Latest period (2021-2024) growth: +13.0 percentage points
+  - Gender-disaggregated data available for analysis
+  - Events cataloged: 10 across 7 categories
+  -  No impact links found - this limits event impact modeling
+
+Data Gaps:
+  - • No impact links defined
+  - • No digital payment usage data
