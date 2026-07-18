@@ -27,8 +27,6 @@ wheels/
 # Jupyter Notebooks
 .ipynb_checkpoints/
 *.ipynb_checkpoints
-notebooks/*.ipynb
-
 # Data files
 *.csv
 *.xlsx
@@ -136,3 +134,6 @@ Thumbs.db
 .idea/
 reports/*.html
 reports/*.pdf
+"" 
+"# Allow specific notebooks" 
+"!notebooks/*.ipynb" 
