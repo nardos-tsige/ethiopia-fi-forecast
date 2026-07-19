@@ -1,0 +1,11 @@
+record_type,parent_id,pillar,related_indicator,impact_direction,impact_magnitude,lag_months,evidence_basis,collected_by,collection_date
+impact_link,Telebirr Launch,,ACC_OWNERSHIP,positive,3.0,12,Comparable country evidence and literature review,Nardos Tsige,2026-07-18
+impact_link,Telebirr Launch,,ACC_MM_ACCOUNT,positive,4.5,6,Comparable country evidence and literature review,Nardos Tsige,2026-07-18
+impact_link,Telebirr Launch,,USG_DIGITAL_PAYMENT,positive,5.0,12,Comparable country evidence and literature review,Nardos Tsige,2026-07-18
+impact_link,M-Pesa Entry,,ACC_MM_ACCOUNT,positive,3.0,6,Comparable country evidence and literature review,Nardos Tsige,2026-07-18
+impact_link,M-Pesa Entry,,USG_DIGITAL_PAYMENT,positive,4.0,12,Comparable country evidence and literature review,Nardos Tsige,2026-07-18
+impact_link,EthSwitch Interoperability,,USG_DIGITAL_PAYMENT,positive,2.0,3,Comparable country evidence and literature review,Nardos Tsige,2026-07-18
+impact_link,Fayda Digital ID Launch,,ACC_OWNERSHIP,positive,1.5,12,Comparable country evidence and literature review,Nardos Tsige,2026-07-18
+impact_link,Fayda Digital ID Launch,,ACC_MM_ACCOUNT,positive,2.0,6,Comparable country evidence and literature review,Nardos Tsige,2026-07-18
+impact_link,4G Network Expansion,,ACC_MM_ACCOUNT,positive,1.0,18,Comparable country evidence and literature review,Nardos Tsige,2026-07-18
+impact_link,4G Network Expansion,,USG_DIGITAL_PAYMENT,positive,1.5,12,Comparable country evidence and literature review,Nardos Tsige,2026-07-18
