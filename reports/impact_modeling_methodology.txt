@@ -1,0 +1,33 @@
+
+EVENT IMPACT MODELING METHODOLOGY
+
+1. Association Matrix Approach
+   - Rows: Events
+   - Columns: Financial Inclusion Indicators
+   - Values: Estimated impact in percentage points
+
+2. Impact Estimation Sources
+   - Kenya M-Pesa case study (Suri & Jack, 2016)
+   - GSMA State of the Industry Reports
+   - IMF Financial Access Survey
+   - Ethiopia-specific market dynamics
+
+3. Functional Form
+   - Impact Type: Step function with gradual adoption
+   - Lag Structure: Impacts realized over 6-18 months
+   - Decay: Persistent effects with gradual saturation
+
+4. Key Assumptions
+   - Impacts are additive across events
+   - No negative interactions between events
+   - Ethiopia follows similar adoption patterns to Kenya
+
+5. Limitations
+   - Limited historical data for validation
+   - No control for macroeconomic factors
+   - Event timing uncertainty
+
+6. Uncertainty Assessment
+   - High confidence: Telebirr impact on mobile money
+   - Medium confidence: M-Pesa impact
+   - Low confidence: Infrastructure impacts
