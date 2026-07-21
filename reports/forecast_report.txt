@@ -1,0 +1,25 @@
+================================================================================
+ETHIOPIA FINANCIAL INCLUSION FORECAST 2025-2027
+================================================================================
+
+FORECAST SUMMARY
+----------------------------------------
+Indicator  Year  Pessimistic  Base  Optimistic
+   Access  2025         50.4  63.8        77.2
+   Access  2026         53.2  66.6        80.0
+   Access  2027         56.0  69.4        82.8
+
+ACCESS FORECAST
+----------------------------------------
+  Base case: 63.8% in 2025, 66.6% in 2026, 69.4% in 2027
+  Total growth: 20.4 percentage points
+  Range: 50.4%-77.2% in 2025
+  Range: 56.0%-82.8% in 2027
+
+ASSUMPTIONS
+----------------------------------------
+1. Telebirr continues to grow at current pace
+2. M-Pesa expands user base in Ethiopia
+3. EthSwitch interoperability improves digital payments
+4. Fayda Digital ID accelerates account opening
+5. No major economic disruptions
